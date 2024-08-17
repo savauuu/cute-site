@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+#pic{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    height: 200px;
+    background: center center;
+}
